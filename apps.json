@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "packageName": "com.arrowpuzzle.tapaway.game",
+      "name": "Arrow Puzzle: Tap Away",
+      "description": "A relaxing arrow-removal puzzle game",
+      "iconUrl": ""
+    }
+  ]
+}
