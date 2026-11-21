@@ -3,8 +3,38 @@
     {
       "packageName": "com.arrowpuzzle.tapaway.game",
       "name": "Arrow Puzzle: Tap Away",
-      "description": "A relaxing arrow-removal puzzle game",
-      "iconUrl": ""
+      "description": "A relaxing arrow-removal puzzle game with 200+ shapes to unlock",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/MuhammadMabroorKhan/mabrinix-app-config@main/arrow_puzzle_icon.webp"
+    },
+    {
+      "packageName": "com.promptspectra.aiimageprompt",
+      "name": "AI Image Prompt: PromptSpectra",
+      "description": "Copy curated AI image prompts in one tap — a clean AI prompt library",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/MuhammadMabroorKhan/mabrinix-app-config@main/promptspectra_icon.png"
+    },
+    {
+      "packageName": "com.ultimatequizzone.gk.logic.triviaquizgame",
+      "name": "Quiz Game Offline: GK Trivia",
+      "description": "Test your general knowledge with offline quiz challenges",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/MuhammadMabroorKhan/mabrinix-app-config@main/quiz_zone_icon.png"
+    },
+    {
+      "packageName": "com.mabroorkhan.scantrack",
+      "name": "Offline QR Scanner & Maker",
+      "description": "Scan and create QR codes instantly, no internet needed",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/MuhammadMabroorKhan/mabrinix-app-config@main/scantrack_icon.png"
+    },
+    {
+      "packageName": "com.tasbeehcounter.zikr.tally",
+      "name": "Tasbeeh Counter – Zikr & Tally",
+      "description": "A simple, elegant digital tasbeeh for daily zikr and counting",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/MuhammadMabroorKhan/mabrinix-app-config@main/tasbeeh_counter_icon.png"
+    },
+    {
+      "packageName": "com.wordsearch.zen",
+      "name": "Word Search Zen - Find Words",
+      "description": "A calming word search puzzle to unwind and sharpen your mind",
+      "iconUrl": "https://cdn.jsdelivr.net/gh/MuhammadMabroorKhan/mabrinix-app-config@main/word_search_icon.png"
     }
   ]
 }
